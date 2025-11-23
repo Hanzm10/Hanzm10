@@ -4,3 +4,4 @@
 - Front-end / Back-end
 - Mobile App Development
 - Neural Net Architecture
+- Data Analysis
